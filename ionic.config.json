@@ -1,0 +1,8 @@
+{
+  "name": "Pinpoint",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "153415b7"
+}
